@@ -1,4 +1,4 @@
-exports.MENU = [
+const MENU = [
   {
     name: "Pancakes",
     image: "./images/pancakes.svg",
@@ -50,3 +50,5 @@ exports.MENU = [
     groups: ["hot", "protein"],
   },
 ];
+
+export default MENU;
